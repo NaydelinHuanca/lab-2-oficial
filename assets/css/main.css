@@ -2938,7 +2938,7 @@ input, select, textarea {
 			-webkit-flex-direction: row;
 			-ms-flex-direction: row;
 			flex-direction: row;
-			background-color: #120fe2;
+			background-color: #000000;
 		}
 
 			.spotlights > section > .image {
@@ -3000,7 +3000,7 @@ input, select, textarea {
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
-				background-color: #ffffff;
+				background-color: #010412;
 			}
 
 				.spotlights > section:nth-child(2n) > .content {
@@ -3495,7 +3495,7 @@ input, select, textarea {
 		}
 
 		#banner.style2:after {
-			background-color: #8dff30;
+			background-color: #000000a2;
 		}
 
 		#banner.style3:after {
